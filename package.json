@@ -1,0 +1,19 @@
+{
+  "name": "MathCalculator",
+  "version": "1.0.0",
+  "description": "my fist cordova plugin mathcalc",
+  "cordova": {
+    "id": "cordova-plugin-mathcalculator",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}
