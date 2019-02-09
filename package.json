@@ -1,19 +1,19 @@
 {
-  "name": "MathCalculator",
+  "name": "mathcalculator",
   "version": "1.0.0",
-  "description": "my fist cordova plugin mathcalc",
-  "cordova": {
-    "id": "cordova-plugin-mathcalculator",
-    "platforms": [
-      "android",
-      "ios"
-    ]
+  "description": "my first pligin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios"
-  ],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaysaty507/samplecordovaplugin.git"
+  },
+  "author": "ajay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaysaty507/samplecordovaplugin/issues"
+  },
+  "homepage": "https://github.com/ajaysaty507/samplecordovaplugin#readme"
 }
